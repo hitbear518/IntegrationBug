@@ -1,0 +1,6 @@
+framework module Pods_InteTry {
+  umbrella header "Pods-InteTry-umbrella.h"
+
+  export *
+  module * { export * }
+}
